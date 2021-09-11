@@ -25,7 +25,7 @@ SECRET_KEY = '_f1#8679wt+9rgo3ay-!!$u5p^j65t7pw9umx7=c8o(6m&apy*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kleeenzwebapp.azurewebsites.net']
 
 
 # Application definition
